@@ -1,1 +1,1 @@
-print("Hello, Welcome to our ecommerce website")
+print("Hello, Welcome to our ecommerce")
